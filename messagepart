@@ -1,0 +1,12 @@
+Reporting-MTA: dns; pv50p00im-zteg10021301.me.com
+X-Postfix-Queue-ID: 78D0E500507
+X-Postfix-Sender: rfc822; t.charithbrooke@icloud.com
+Arrival-Date: Wed,  2 Feb 2022 02:58:53 +0000 (UTC)
+
+Final-Recipient: rfc822; *******@***********************
+Original-Recipient: rfc822;support@personalloansmobile.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; mail.cash9.com
+Diagnostic-Code: smtp; 554 5.7.1 <*******@***********************>: Relay
+    access denied
